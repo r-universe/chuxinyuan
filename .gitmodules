@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ecce"]
+	path = ecce
+	url = https://gitlab.com/chuxinyuan/ecce
 [submodule "ipkg"]
 	path = ipkg
 	url = https://gitlab.com/chuxinyuan/ipkg
