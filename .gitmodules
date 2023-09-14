@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "CNID"]
+	path = CNID
+	url = https://gitlab.com/chuxinyuan/cnid
 [submodule "ecce"]
 	path = ecce
 	url = https://gitlab.com/chuxinyuan/ecce
