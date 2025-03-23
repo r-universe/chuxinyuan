@@ -13,4 +13,4 @@
 	url = https://gitlab.com/chuxinyuan/ipkg
 [submodule "simpletex"]
 	path = simpletex
-	url = https://gitlab.com/chuxinyuan/simpletex
+	url = https://github.com/chuxinyuan/simpletex
