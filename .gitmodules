@@ -4,13 +4,13 @@
 	branch = HEAD
 [submodule "CNID"]
 	path = CNID
-	url = https://gitlab.com/chuxinyuan/cnid
+	url = https://github.com/chuxinyuan/cnid
 [submodule "ecce"]
 	path = ecce
-	url = https://gitlab.com/chuxinyuan/ecce
+	url = https://github.com/chuxinyuan/ecce
 [submodule "ipkg"]
 	path = ipkg
-	url = https://gitlab.com/chuxinyuan/ipkg
+	url = https://github.com/chuxinyuan/ipkg
 [submodule "simpletex"]
 	path = simpletex
 	url = https://github.com/chuxinyuan/simpletex
